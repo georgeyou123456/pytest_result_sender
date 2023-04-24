@@ -1,0 +1,3 @@
+# pytest_result-sender
+
+
